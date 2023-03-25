@@ -1,1 +1,2 @@
-# governance
+# Governance
+This repository will contain the governance documents and track governance processes for the package-url project. The proposed governance documents will be submitted as a pull request to this repository for comment by the community and approval by the current maintainers.
